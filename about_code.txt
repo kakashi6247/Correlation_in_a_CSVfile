@@ -1,0 +1,4 @@
+Problem Statement:
+
+For a csv file, create a way to test the correlations if you have a variable range of conditions I can filter the day by, thats user friendly, so you can - say compare the value of datapoint X to datapoint Y under the condition that Datapoint A is less than datapoint B.
+Also add a scatter plot for it.
